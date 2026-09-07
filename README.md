@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a Final Year Computer Science Student passionate about the intersection of Cybersecurity and AI.<br><br>🔭 Currently working on: A Real-Time, Anomaly-Based NIDS using LLaMA for my Final Year Project. <br>🌱 Learning: Advanced Network Scanning (Zeek, Scapy) and Image Processing with MATLAB.  <br>⚡ Fun fact: I'm a big fan of the One Piece TCG!
+👋 Hi, I’m passionate about the intersection of Cybersecurity and AI.<br><br>🔭 Currently working on: A Real-Time, Anomaly-Based NIDS using LLaMA . <br>🌱 Learning: Advanced Network Scanning (Zeek, Scapy) and Image Processing with MATLAB.  <br>⚡ Fun fact: I'm a big fan of the One Piece TCG!
 
 
 ## 🌐 Socials:
